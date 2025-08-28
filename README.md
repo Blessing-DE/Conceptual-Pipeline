@@ -66,7 +66,7 @@ Here’s what happens along the line after identifying the primary data sources:
 
 ## Conceptual Architecture Diagram
 Below is the conceptual architecture diagram for the pipeline for Beejan technologies
-![Conceptual Pipeline Architecture](assets/Conceptual Pipeline_Architecture_Diagram.svg)
+![Conceptual Pipeline Architecture](Conceptual_Pipeline_Architecture_Diagram.svg)
 
 
 ## 6. Lifecycle of the Pipeline
